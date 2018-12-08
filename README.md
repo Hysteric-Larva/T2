@@ -20,5 +20,5 @@ Cada parte fue separada en un archivo con el formato T2_"número parte" y se con
 
 No se insertaron todos los datos correspondientes a cada parte por el peso de estos.
 
-Se adjunta una imagen con el root utilizado al menos por Eric.
+Se adjunta una imagen con el root utilizado al menos por Eric (Root_Eric).
 Tal vez la 2 no se alcanzó a ejecutar de manera completa antes de subir.
